@@ -1,6 +1,6 @@
 - 👋 Hi, I’m nichiyoshi.
 - 💞️ I love walking and camera.
-- 🌱 I’m currently an Android Developer at [WASSHA Inc](https://wassha.com/en/).
+- 🌱 I’m currently an Android Developer at Drivemode Inc.
 
 <a target=_blank href="https://github.com/nichiyoshi">
   <img align="center" alt="nichiyoshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nichiyoshi&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
